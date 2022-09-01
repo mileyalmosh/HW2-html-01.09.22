@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>EcomFullstackCourse</title>
+</head>
+<body>
+    <br>
+<h2>May Almoshnino</h2> <br> 
+<hr>
+<img src="photo-1587825140708-dfaf72ae4b04.avif" alt="Lecture" width="550" height="300">
+<br>
+<a href="https://www.ted.com" target="_blank">Expend yourself with TED></a> 
+<br>
+<hr>
+<h4>Familiar Companies:</h4> 
+<ul>
+<li>Google</li>
+<li>Microsoft</li>
+<li>McDonald's</li>
+<li>Apple</li>
+</ul>
+<br   \>
+<table border="3">
+    <tr>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+    </tr>
+    <tr>
+      <td>LA, California</td>
+      <td>Mexico</td>
+      <td>Russia</td>
+    </tr>
+    <tr>
+      <td>800$</td>
+      <td>650$</td>
+      <td>330$</td>
+    </tr>
+    <tr>
+        <td>Dec-Feb</td>
+        <td>May-July</td>
+        <td>Sep-Nov</td>
+      </tr>
+  </table>
+</body>
+</html>
+
+</body>
+</html>
